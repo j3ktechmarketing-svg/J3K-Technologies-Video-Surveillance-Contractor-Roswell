@@ -89,7 +89,6 @@ Video surveillance systems often fail to deliver value due to poor planning, rus
 
 J3K Technologies combines technical expertise with operational understanding, delivering surveillance solutions that support safety, accountability, and informed decision-making.
 
-Additional reference material and industry insights related to surveillance planning and system optimization can be explored through < > and < > for teams seeking deeper technical knowledge.
 
 ---
 
